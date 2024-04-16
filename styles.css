@@ -1,0 +1,18 @@
+.install-button {
+    background-color: #00854d; /* Google Play green */
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px; 
+    font-size: 16px; 
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .install-button img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px; 
+  }
+  
